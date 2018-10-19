@@ -1,0 +1,11 @@
+---
+title: "readme"
+author: "Eric"
+date: "October 19, 2018"
+output: html_document
+---
+
+
+## R Markdown
+
+Pages generated from R Markdown
